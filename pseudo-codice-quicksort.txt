@@ -1,0 +1,36 @@
+start
+    numeri = leggi array
+  
+       for(indice1 = 0, fino numeri.lenght-1){
+       
+         for(indice2 = indice1+1, fino a numero celle -1){
+         
+         if(numeri[indice2] < numeri [indice1])
+         scambio i 2 valori
+         
+
+
+
+          }
+
+
+
+       }
+
+---------------stesso con il while------------------------------------------
+       numeri= leggi array
+       indice1 = 0
+
+       while(indice1 < numero celle) {
+       indice2 = indice1 + 1
+
+       while(indice2 < numero di celle) {
+       scambio valori
+
+
+       }
+
+       indice2 = indice2 +1 
+
+       }
+       indice1 = indice1 +1
